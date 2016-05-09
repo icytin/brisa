@@ -1,0 +1,6 @@
+form input[type="file"] { margin: 1em 0 1em 0!important; }
+form button[type="reset"] { margin-right: .3em!important; }
+div.result { font-weight: bold; margin-bottom: .3em; }
+div.result.success { color: #5cb85c; }
+div.result.error { color: #d9534f; }
+div.result.info { color: #5bc0de; }

@@ -1,0 +1,11 @@
+.links {
+	margin-top: 2em;
+}
+
+.links .pdf {
+	margin-right: 1em;
+}
+
+.links .pdf:hover, .links .excel:hover {
+	cursor: pointer;
+}
